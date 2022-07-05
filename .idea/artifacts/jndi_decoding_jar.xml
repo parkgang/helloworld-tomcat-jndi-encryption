@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jndi-decoding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jndi_decoding_jar</output-path>
+    <root id="archive" name="jndi-decoding.jar">
+      <element id="module-output" name="jndi-decoding" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jndi-decoding/lib/tomcat-jdbc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
